@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: darkgreen;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+h1{
+    font-family: 'Nunito', sans-serif;
+    Font-size: 30px;
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: inherit;
+}
+.container1{
+    display: flex;
+    background: rgb(40, 4, 75);
+    padding: 20px;
+    justify-content: space-around;
+}
+.container2{
+    background: rgb(190, 112, 10);
+}
+.col1-container1{
+    width: 400px;
+}
+
+.col2-container1{
+    width: 200px;
+}
+
+.col3-container1{
+    width: 300px;
+}
+
+.header{
+    background-color: grey;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}.header li{
+    height: inherit;
+}
+
+.header a{
+    color: white;
+    text-decoration: none;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+.logo img{
+    width: 80px;
+}
+
+.logo2 img{
+    width: 100px;
+}
+.logo3 img{
+    width: 500px;
+    justify-content: center;
+}
+
+.menu{
+    height: inherit;
+}
+
+.Principal{
+    background-image: url(img/las-ciudades-mas-limpias-del-mundo-parques.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding: 200px;
+}
+
+.Principal img{
+    width: 700px;
+}
+
+.Enquesebasanuestroproyecto{
+    background-color: rgb(255, 183, 0);
+    color: rgb(255, 183, 0);
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+.Función{
+    background-color: rgba(165, 42, 42, 0.418);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.Función h3{
+    color: white;
+    margin: 10px;
+}
+
+.Función p{
+    margin-bottom: 20px;
+}
+
+.Contacto{
+    color: white;
+    font-size: 30px;
+}
+.Contacto h4{
+    color: rgb(255, 251, 0);
+    margin: 5px;
+}
+h4 strong{
+    color: rgb(8, 129, 38);
+}
