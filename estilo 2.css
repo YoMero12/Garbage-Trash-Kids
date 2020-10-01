@@ -20,6 +20,16 @@ ul{
     display: flex;
     height: inherit;
 }
+.hipotesis{
+    padding: 50px 250px;
+    margin:20px;
+    font-size: 20px;
+    text-align: center;
+    background: rgb(40, 4, 75);
+}
+.Bases{
+    text-align: center;
+ }
 .container1{
     display: flex;
     background: rgb(40, 4, 75);
